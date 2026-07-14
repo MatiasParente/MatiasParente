@@ -23,7 +23,7 @@ My current goal is to continue growing as a Software Developer while expanding m
 | Project | Description |
 |----------|-------------|
 | **[One Thread](https://github.com/MatiasParente/one-thread)**  | AI-powered communication management platform for SMEs built with Laravel, React, Gemini and n8n.|
-| **[Forest Access](https://github.com/MatiasParente/forest_access_front)** | Enterprise forest management platform developed for a real client using Spring Boot and React. |
+| **[Forest Access](https://github.com/Jhonch1s/forest_access_front)** | Enterprise forest management platform developed for a real client using Spring Boot and React. |
 | **[Sistema Controladores](https://github.com/MatiasParente/SistemaControladores)** | Business management platform developed during my internship at Fritz using Laravel and React. |
 | **[AppPatentesLibreria](https://github.com/MatiasParente/AppPatentesLibreria)** | Android library for automatic license plate recognition using TensorFlow Lite and Google ML Kit. |
 | **[Electrical Counter](https://github.com/MatiasParente/ElectricalCounter)** | IoT solution awarded 1st Place at the National Programming Olympiads 2022. |
